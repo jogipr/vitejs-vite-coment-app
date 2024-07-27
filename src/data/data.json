@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "comment": "This is first comment",
+    "votes": 0,
+    "replies": []
+  },
+  {
+    "id": 5,
+    "comment": "This is second comment",
+    "votes": 0,
+    "replies": []
+  }
+]
